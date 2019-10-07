@@ -10,12 +10,12 @@ Here is the [live demo](https://lit-spire-67447.herokuapp.com/)!
 
 #### Landing Page: ####
 
-![alt text](https://github.com/Robert-Vaccaro/Emotion-Analysis/blob/master/landing_page_screenshot.png)
+![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/landing-screen.png)
 
 
 #### Emotion Input Page: ####
 
-![alt text](https://github.com/Robert-Vaccaro/Emotion-Analysis/blob/master/emotion_input_page.png)
+![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/main-screen.png)
 
 
 #### Results Page: ####
