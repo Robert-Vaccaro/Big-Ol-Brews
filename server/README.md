@@ -2,13 +2,7 @@
 
 The back-end is built with **Node.js** using a **Postgres** database.
 
-See it live [here:](https://lit-spire-67447.herokuapp.com/).
-
-
-## Automatic Deployment to Heroku
-
-1. Make sure you are logged in to the [Heroku Dashboard](https://dashboard.heroku.com)
-
+See it live [here](https://lit-spire-67447.herokuapp.com/).
 
 ## Local Installation
 
