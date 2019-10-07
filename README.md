@@ -13,7 +13,7 @@ Here is the [live demo](https://lit-spire-67447.herokuapp.com/)!
 ![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/landing-screen.png)
 
 
-#### Search Engine Page ####
+#### Beer Database: ####
 
 ![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/main-screen.png)
 
